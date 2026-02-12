@@ -1,0 +1,19 @@
+{
+  "IT": {
+    "Skills": {
+      "Machine Learning": ["pytorch", "tensorflow", "scikit-learn"],
+      "Backend": ["python", "django", "fastapi", "go", "java", "rest api","apis"],
+      "Cloud": ["aws", "azure", "docker", "kubernetes"],
+      "Data Base": ["postgresql","relational database"],
+      "QA": ["selenium", "cypress", "playwright", "test automation", "qa", "software testing"],
+      "Tools": ["git","docker"]
+    },
+    "Education": ["computer science", "informatics", "software engineering"],
+    "Roles": ["data scientist", "backend developer", "devops engineer", "python developer","qa automation engineer"]
+  },
+  "Finance": {
+    "Skills": ["risk analysis", "accounting", "sap", "excel"],
+    "Education": ["economics", "finance", "ase"],
+    "Roles": ["analyst", "accountant"]
+  }
+}

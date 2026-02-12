@@ -1,0 +1,51 @@
+{
+  "IT": {
+    "Skills": {
+      "Machine Learning": [
+        "pytorch", "tensorflow", "scikit-learn", "învățare automată", "machine learning",
+        "rețele neuronale", "procesarea limbajului natural", "nlp", "viziune artificială"
+      ],
+      "Backend": [
+        "python", "django", "fastapi", "go", "java", "rest api", "api-uri",
+        "microservicii", "dezvoltare backend"
+      ],
+      "Cloud": [
+        "aws", "azure", "docker", "kubernetes", "cloud computing", "servicii cloud"
+      ],
+      "Data Base": [
+        "postgresql", "baze de date relaționale", "sql", "nosql", "administrare baze de date"
+      ],
+      "QA": [
+        "selenium", "cypress", "playwright", "testare automată", "qa",
+        "testare software", "asigurarea calității"
+      ],
+      "Tools": [
+        "git", "docker", "jenkins", "cicd", "metodologii agile"
+      ]
+    },
+    "Education": [
+      "calculatoare", "automatică și calculatoare", "informatică",
+      "inginerie software", "tehnologia informației", "cibernetică"
+    ],
+    "Roles": [
+      "data scientist", "dezvoltator backend", "inginer devops",
+      "programator python", "inginer testare automată", "arhitect software",
+      "inginer date", "manager de proiect" ,"ml engineer","ml inginer","inginer machine learning",
+      "Inginer QA Automation ", "QA Automation Engineer"
+    ]
+  },
+  "Finanțe": {
+    "Skills": [
+      "analiză de risc", "contabilitate", "sap", "excel", "raportare financiară",
+      "audit", "planificare financiară", "fiscalitate","pachetul Office","Word","Microsoft Excel",
+      "Power Point", "Acces"
+    ],
+    "Education": [
+      "economie", "finanțe", "ase", "finanțe-bănci", "contabilitate și informatică de gestiune"
+    ],
+    "Roles": [
+      "analist financiar", "contabil", "auditor", "economist", "manager financiar", "project manager",
+      "Manager Proiect"
+    ]
+  }
+}
